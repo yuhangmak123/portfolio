@@ -24,7 +24,7 @@ const Hero = () => {
                         Dynamic Web Magic with Next.js
                         <TextGenerateEffect className="text-center text-[40px] md:text-4xl lg:text-4xl" words="Transforming Concepts into Seamless Experiences" />
                         <p className="text-center md:tracking-wider mb-4 text-sm md:text-xs lg:text-xs">
-                            Hi, I'm Yu Hang, a Next.js Developer based in New York.
+                            Hi, I&apos;m Yu Hang, a Next.js Developer based in New York.
                         </p>
 
                         <a href="#about">
