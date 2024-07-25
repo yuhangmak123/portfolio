@@ -42,7 +42,7 @@ const Hero = () => {
                     <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
                         <TypewriterEffect words={words} />
                         <TextGenerateEffect className="text-center text-[40px] md:text-4xl lg:text-4xl" words="Transforming Concepts into Seamless User Experiences" />
-                        <p className="text-center md:tracking-wider mb-4 text-sm md:text-xs lg:text-xs">
+                        <p className="text-center md:tracking-wider mb-4 text-xs md:text-xs lg:text-xs">
                             Hi, I&apos;m Yu Hang, a Next.js Developer based in New York.
                         </p>
 
